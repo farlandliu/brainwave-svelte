@@ -1,6 +1,7 @@
 # project setup
 
-## init 
+## init
+
 - sveltekit create
 - install tailwindcss
-- 
+-

@@ -1,11 +1,23 @@
-# create-svelte
+# brainwave clone with svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+[react brainwave](https://github.com/adrianhajdin/brainwave)
 
-## fontsource 
+## steps
+
+See the branch for developing flow.
+
+1. setup
+2. layout
+3. header
+4. footer
+5. content sections
+
+## fontsource
+
 - Space Grotesk
 - Source Code Pro
 - Sora
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
@@ -40,3 +52,5 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+##
